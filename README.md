@@ -1,16 +1,38 @@
-### Hi there 👋
+<h2> Hey there! I'm Pakanun.</h2>
 
-<!--
-**Pakanun/Pakanun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🎓 &nbsp; Studying Data Analytics and Data Science at National Institute of Development Administration (NIDA).
+- 🌱 &nbsp; Learning more about Game Develop, Machine Learning, Deep Learning.
+- ✍️ &nbsp; Pursuing to be Game Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Sourcetree](https://img.shields.io/badge/-Sourcetree-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+- 🖥 &nbsp;
+  ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat&logo=adobe-illustrator)
+
+<br/>
+
+<a href="https://github.com/Paknun">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pakanun&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakanun&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+
+⭐️ From [AVS1508](https://github.com/AVS1508)
