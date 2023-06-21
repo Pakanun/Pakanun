@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Pakanun.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩‍💼 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Data Analytics and Data Science at National Institute of Development Administration (NIDA).
 - 🌱 &nbsp; Learning more about Game Develop, Machine Learning, Deep Learning.
@@ -10,7 +10,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%23logoColor=00599C)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C#&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
