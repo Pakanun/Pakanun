@@ -28,12 +28,5 @@
 
 <br/>
 
-<a href="https://github.com/Paknun">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pakanun&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakanun&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
