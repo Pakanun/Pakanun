@@ -24,6 +24,7 @@
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter&logoColor=FF4500)
 - 🖥 &nbsp;
   ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat&logo=gimp)
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 
 <br/>
 
