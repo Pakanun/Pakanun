@@ -4,7 +4,6 @@
 
 - 🎓 &nbsp; Studying Data Analytics and Data Science at National Institute of Development Administration (NIDA).
 - 🌱 &nbsp; Learning more about Game Develop, Machine Learning, Deep Learning.
-- ✍️ &nbsp; Pursuing to be Game Developer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -22,6 +21,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter&logoColor=FF4500)
+  ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi&logoColor=FFD700)
 - 🖥 &nbsp;
   ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat&logo=gimp)
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
